@@ -1,0 +1,23 @@
+.teams {
+    border:solid 3px black;
+}
+
+.celtics-colors {
+    background-color:#008853;
+    color:#FFFFFF;
+}
+
+.patriots-colors {
+    background-color: #0A2342;
+    color:#C81F32;
+}
+
+.red-sox-colors {
+    background-color: #C60C30;
+    color:#FFFFFF;
+}
+
+.bruins-colors {
+    background-color: #FDB927;
+    color:#000000;    
+}
